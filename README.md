@@ -1,33 +1,38 @@
-# Car-Sales-Analysis-Excel-Dashboard
-This repository contains an interactive Excel dashboard designed to analyze car sales data. The dashboard showcases various visualizations, including bar charts, pie charts, line charts, and sunburst charts, providing insights into car sales, profits, and performance across different car models and dealers.
-# Car Sales Analysis Excel Dashboard
+# Car Sales Dashboard | Microsoft Excel
 
-This repository contains an interactive **Excel Dashboard** designed to analyze **car sales** data for SwiftAuto Traders. The dashboard includes various visualizations such as bar charts, pie charts, sunburst charts, and more.
+An Excel visualization portfolio project exploring car sales, vehicle pricing, resale value, and performance measures.
 
-## Files:
+## Dashboard preview
 
-- **`Car_Sales_Kaggle_DV0130EN_Lab3_Start.xlsx`**: The original dataset used to create the dashboard.
-- **`dashboards.xlsx`**: The final dashboard with interactive charts and slicers.
+![Car sales dashboard preview](image.png)
 
-## Visualizations:
+## Project files
 
-- **Average Price and Year Resale Value**: A bar chart comparing the average price and resale value of various car models.
-- **Power Performance Factor**: A column chart displaying the performance across different car models.
-- **Unit Sales by Model**: A donut chart showcasing unit sales by car model.
-- **Retention Percentage**: A pie chart illustrating customer retention by car model.
+| File | Purpose |
+| --- | --- |
+| [dashboards .xlsx](<dashboards .xlsx>) | Dashboard workbook to review first |
+| [dashboards Car_Sales_Kaggle_DV0130EN_Lab3_Start.xlsx](<dashboards Car_Sales_Kaggle_DV0130EN_Lab3_Start.xlsx>) | Additional workbook supplied with the project |
+| [image.png](<image.png>) | Dashboard screenshot |
 
-## How to Use:
+The workbook filenames above match the files committed to this repository.
 
-1. Download or clone this repository.
-2. Open the **`dashboards.xlsx`** file in Excel to explore the visualizations.
-3. Use the slicers to filter data by **Manufacturer** and **Model**.
+## Explore the project
 
-## Tools Used:
+1. Download the dashboard workbook and open a local copy in Microsoft Excel.
+2. Review the worksheet names, source columns, chart labels, and any available filters.
+3. Compare sales, price, resale value, and performance measures using their stated units.
+4. If you edit the data, refresh any PivotTables and check that chart ranges include the intended rows.
 
-- **Microsoft Excel** for creating the visualizations and dashboard.
-- **Excel Slicers** for interactive filtering.
-- **Charts**: Bar, Pie, Line, Column, and Sunburst charts.
+## Analytical interpretation
 
-## License:
+Resale-value retention and customer retention are different measures. Confirm the workbook's definition of retention before interpreting a percentage. Cross-sectional model comparisons should not be described as time trends unless the source includes a suitable time series.
 
-This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
+## Tools and scope
+
+Microsoft Excel · charts · dashboard presentation
+
+The repository includes workbooks and a preview image. The workbook calculations and interactive controls have not been independently validated in this documentation update. No separate license file is currently included.
+
+## Author
+
+[Muhammad Ibrahim](https://www.linkedin.com/in/m135ibrahim/) · [GitHub portfolio](https://github.com/M33ibrahim)
